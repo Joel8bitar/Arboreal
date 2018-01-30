@@ -15,16 +15,16 @@ Uppgift i HTML & CSS där vi ska göra en hemsida för företaget "Arboreal". De
 * En navbar i HTML dokumentet hade också underlättat för att läsa av strukturen. Nu är det bara ul och lis men du skulle kunna lägga till de i en navbar. Då kan du även styla hela navbaren. 
 
 
-(La till en navbar. Blev mycket bättre.)
+La till en navbar. Flyttade logga till mitten.
 
 
 * Blir ibland lite svårt att läsa text, logga och företagsnamn mot bakgrundsbilden när texten är svart. Du skulle kunna  testa att ha texten i en annan färg/ byta bakgrundsbild eller att lägga till en skugga bakom texten så att det sticker ut lite mer och blir mer lättläst.
 
-(Slängde upp logga samt företagsnamn i navbaren för att enklare kunna läsas. Gillar att slogan som ändå är mindre viktig info syns lite mindre.)
+
 
 *I sektionerna (pricing och themes) där det är färgat bakom så blir det mycket tydligare att läsa. 
 
-Du skulle även kunna lägga till någon form av rubriker vid de olika teman som erbjuds och prisklasser som finns. Det gör det enklare att förstå sidan.
+* Du skulle även kunna lägga till någon form av rubriker vid de olika teman som erbjuds och prisklasser som finns. Det gör det enklare att förstå sidan.
 
 
 Slängde in rubriker
